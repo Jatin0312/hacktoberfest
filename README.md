@@ -32,6 +32,7 @@ Choose one or all 3, make a Pull Request for your work, wait for it to be merged
 git clone https://github.com/your-username/hacktoberfest.git
 ```
 * Create a branch
+................
 ```markdown
 git checkout -b branch-name
 ```
